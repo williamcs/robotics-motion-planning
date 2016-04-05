@@ -1,0 +1,21 @@
+https://www.coursera.org/learn/robotics-motion-planning/module/EDk8Q/discussions/5qqAJ9ZmEeW17wrgkMLDIQ    Line intersection
+https://www.coursera.org/learn/robotics-motion-planning/module/EDk8Q/discussions/KuYCkdWNEeWQzA7MOZsNDQ   Assigment 2 Question
+
+https://www.coursera.org/learn/robotics-motion-planning/module/EDk8Q/discussions/gDF8j9TUEeW9ug73QL_FVQ  Programming Assignment 2 Bug?
+https://www.coursera.org/learn/robotics-motion-planning/module/EDk8Q/discussions/-BtLINl0EeWsaAqtPzxiow  submit of triangle intersection
+
+https://www.coursera.org/learn/robotics-motion-planning/module/EDk8Q/discussions/GdANfdhlEeWrJhKRHKXGQw   Several Questions regarding Assignment 2
+
+https://en.wikipedia.org/wiki/Geometric_algebra
+http://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/code/tritri_tam.pdf
+https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm
+http://mollyrocket.com/849?node=849  Implementing GJK
+
+http://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf  Intersection of Convex Objects: The Method of Separating Axes
+http://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169  Collision Detection Using the Separating Axis Theorem
+http://www.dyn4j.org/2010/01/sat/#sat-algo  SAT (Separating Axis Theorem)
+https://en.wikipedia.org/wiki/Collision_detection
+https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
+
+https://www.coursera.org/learn/robotics-motion-planning/discussions/tyvi-NoAEeWdPBL2iFTrAw  Further Reading
+
